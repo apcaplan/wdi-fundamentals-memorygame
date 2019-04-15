@@ -79,6 +79,7 @@ a{
 a:hover {
  border-color: white;
 }
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
